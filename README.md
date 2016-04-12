@@ -1,4 +1,4 @@
-框架需要安装boost,内部使用boost[atomic,unordered_map,bind,function,lockfree]等组件。交流qq:191719285
+框架需要安装boost,内部使用boost[atomic,unordered_map,bind,function,lockfree]等组件。交流QQ:191719285
 
 1.include  引擎头文件
 	
