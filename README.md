@@ -4,9 +4,6 @@
 	
 	
 2.lib  引擎库文件
-	
-	
-3.service_lua  lua服务模块文件
 
 
-4.server 服务器测试代码
+3.server 服务器测试代码
